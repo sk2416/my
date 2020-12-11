@@ -27,6 +27,7 @@ h3{
 .top-container{
   
 
+
 }
 .me{
   border-radius: 50%;
@@ -40,6 +41,7 @@ h3{
 
 
 .middle-container{
+  background-color: #f4f6ff;
 
 
 
@@ -50,4 +52,10 @@ h3{
 
 .card{
   margin: 20px auto 20px auto;
+}
+.skill-row{
+  background-color: #f4eeed;
+}
+.mm{
+    margin: 2px auto 2px auto;
 }
